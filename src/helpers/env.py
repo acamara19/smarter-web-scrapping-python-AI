@@ -9,6 +9,7 @@ BASE_DIR_ENV_PATH = BASE_DIR / ".env"
 REPO_DIR = BASE_DIR.parent
 REPO_DIR_ENV_PATH = REPO_DIR / ".env"
 
+
 @lru_cache
 def get_config():
     if BASE_DIR_ENV_PATH.exists():
