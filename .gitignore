@@ -13,6 +13,7 @@ gcloud/credentials.json
 src/files/processors/old
 backend/files/processors/old
 dataset/*
+*.code-workspace
 # Logs
 logs
 *.log
