@@ -91,9 +91,6 @@ This isn't just theory. It's about applying what I learned to tackle real-world 
 ### Inviting Contributions
 Your insights and improvements are welcome! There's always room to enhance the scraping algorithms, dive deeper into AI analysis, or streamline the workflows even further.
 
-### Learning Resources
-Heartfelt thanks to [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/) for the [Smarter Web Scraping with Python + AI course](https://www.codingforentrepreneurs.com/courses/smarter-web-scraping-with-python-ai/). It was a treasure trove of knowledge that significantly influenced my journey, providing a solid foundation and inspiring innovation at every step.
-
-### Acknowledgments
-Special thanks to [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/) for lighting the way on this incredible learning path.
----
+> ##### Acknowledgments
+>
+> Heartfelt thanks to [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/) for the [Smarter Web Scraping with Python + AI course](https://www.codingforentrepreneurs.com/courses/smarter-web-scraping-with-python-ai/). It was a treasure trove of knowledge that significantly influenced my journey, providing a solid foundation and inspiring innovation at every step.
