@@ -1,5 +1,5 @@
 <p align="center" style="padding: 1 1%;"><!-- Padding on the sides -->
-  <img src="media/images/web_scraping_python_ai.png" width="100%" alt="Web Scraping with Python and AI" style="max-width:100%;height:auto;"> <!-- Responsive Image -->
+  <img src="media/images/web_scraping_python_ai.png" width="60%" alt="Web Scraping with Python and AI" style="max-width:100%;height:auto;"> <!-- Responsive Image -->
 </p>
 
 # My Web Scraping Adventure with Python and AI
