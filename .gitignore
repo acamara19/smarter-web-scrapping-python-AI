@@ -12,6 +12,7 @@ k8s-old/dbs/postgres/run-copy.sh
 gcloud/credentials.json
 src/files/processors/old
 backend/files/processors/old
+dataset/*
 # Logs
 logs
 *.log
