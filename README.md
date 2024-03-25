@@ -1,3 +1,7 @@
+<p align="center" style="padding: 0 5%;"><!-- Padding on the sides -->
+  <img src="media/images/web_scraping_python_ai.webp" width="30%" alt="Web Scraping with Python and AI" style="max-width:100%;height:auto;"> <!-- Responsive Image -->
+</p>
+
 # My Web Scraping Adventure with Python and AI
 
 ## From Data Gathering to Insightful Automation
