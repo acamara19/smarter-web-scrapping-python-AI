@@ -54,7 +54,7 @@ with Remote(sbr_connection, options=options) as driver:
 
 #### Getting Started
 1. **Clone the Project Repository**:
-   ```
+   ```bash
    mkdir -p ~/dev/smarter-scraping
    cd ~/dev/smarter-scraping
    git clone https://github.com/acamara19/smarter-web-scrapping-python-AI .
@@ -63,7 +63,7 @@ with Remote(sbr_connection, options=options) as driver:
 2. **Set Up the Python Environment**:
    - Create a virtual environment:
      ```bash
-     # MAC/LINUX
+     # mac/linux
      python3 -m venv venv
      ```
    - Activate the virtual environment:
@@ -76,8 +76,11 @@ with Remote(sbr_connection, options=options) as driver:
      (venv) python -m pip install -r requirements.txt
      ```
 
-3. **Configure Environment Variables**:
-   Rename the `sample-env-file` to `.env` for sensitive information such as Proxy API keys for Bright Data and Ollama configurations. Sample configuration commands for different operating systems are provided in the documentation.
+3. **Implement Environment Variables with `dotenv`**:
+   - mac/linux
+      ```bash
+      cp sample-env-file .env
+      ```
 
 4. **Dive into the Notebooks**:
    - Launch Jupyter Notebook to explore interactive coding sessions:
